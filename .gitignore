@@ -53,3 +53,10 @@ instance/
 data/
 models/
 __tests__/
+
+#Archivos especificos
+ONLY_TEST.py
+0_image_raw/*
+1_image_preprocessed/*
+2_image_improved/*
+3_text_extracted/*
