@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "MN931676",
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "riesgo de trabajo", 
+  "probable_riesgo_trabajo": "si", 
+  "dias_autorizados": "uno",
+  "fecha_a_partir": "29/11/2023", 
+  "fecha_expedido": "29/11/2023", 
+  "numero_de_seguridad_social": "92058812642", 
+  "curp": null, 
+  "nombre_del_asegurado": "NAYELI SANCHEZ VEGA", 
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI STRAUSS DE MEXICO SA DE CV"
+}

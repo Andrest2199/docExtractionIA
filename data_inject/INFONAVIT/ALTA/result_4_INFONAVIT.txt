@@ -1,0 +1,18 @@
+{
+  "titulo": "Aviso para Retención de Descuentos",
+  "motivo": "ALTA",
+  "folio": "R0209025858838",
+  "fecha_notificacion": "14/02/2025",
+  "fecha_emision": "15/02/2025",
+  "fecha_tramite": null,
+  "fecha_recepcion": "18/02/2025",
+  "numero_de_credito": "1425027102",
+  "descuento": { "cantidad": "$4.349,19" },
+  "rfc": "MAMJ971030R40",
+  "numero_de_seguridad_social": "10169735270",
+  "rfc_patron": "CGL1405078L1",
+  "numero_de_registro_patronal": "Y5476751101",
+  "razon_social": "CWL GLOBAL LOGISTICS MEXICO S DE RL DE C",
+  "sello_de_la_empresa": "false",
+  "leyenda_aplicacion_descuento": "A partir de la fecha del presente aviso"
+}

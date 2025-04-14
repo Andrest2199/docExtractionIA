@@ -1,0 +1,9 @@
+{
+  "codigo_postal": "03023",
+  "curp": "BODA771209HMNNXD07",
+  "nombres": "ADAN EDUARDO",
+  "primer_apellido": "BONILLA",
+  "segundo_apellido": "DUEÑAS",
+  "rfc": "BODA771209B68",
+  "estatus_en_el_padron": "REACTIVADO"
+}

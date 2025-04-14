@@ -1,0 +1,9 @@
+{
+  "codigo_postal": "08230",
+  "curp": "SAGJ840820HDFNRS04",
+  "nombres": "JESUS MIGUEL",
+  "primer_apellido": "SANCHEZ",
+  "segundo_apellido": "GARCIA",
+  "rfc": "SAGJ840820157",
+  "estatus_en_el_padron": "ACTIVO"
+}

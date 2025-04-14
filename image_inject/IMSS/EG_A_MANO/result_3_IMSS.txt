@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "MI909748",
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "enfermedad general", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "uno", 
+  "fecha_a_partir": "03/11/2023", 
+  "fecha_expedido": "03/11/2023", 
+  "numero_de_seguridad_social": "22130144133", 
+  "curp": "TAGM010722MMCPNGA1", 
+  "nombre_del_asegurado": "TAPIA GONZALEZ MARIA MAGDALENA", 
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI STRAUSS DE MEXICO SA DE CV"
+}

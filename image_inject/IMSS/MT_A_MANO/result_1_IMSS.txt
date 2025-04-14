@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "ML194495", 
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "maternidad", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "ochenta y cuatro",
+  "fecha_a_partir": "08/12/2023", 
+  "fecha_expedido": "08/12/2023", 
+  "numero_de_seguridad_social": "2916027275",
+  "curp": null, 
+  "nombre_del_asegurado": "NAIDELIN FRANCISCO SAUCEDA VALENZUELA", 
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI STRAUSS"
+}

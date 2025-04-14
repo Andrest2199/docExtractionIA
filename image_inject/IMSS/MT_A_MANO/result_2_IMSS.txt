@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "MK549904", 
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "maternidad", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "ochenta y cuatro",
+  "fecha_a_partir": "25/07/2023", 
+  "fecha_expedido": "25/07/2023", 
+  "numero_de_seguridad_social": "81068710458",
+  "curp": "CURP8712O7MTCRYL08", 
+  "nombre_del_asegurado": "PAOLO DE LA CRUZ REYES", 
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI STRAUSS DE MEXICO SA DE CV"
+}

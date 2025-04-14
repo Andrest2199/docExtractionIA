@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "VS648353", 
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "enfermedad general", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "tres", 
+  "fecha_a_partir": "04/10/2023", 
+  "fecha_expedido": "04/10/2023", 
+  "numero_de_seguridad_social": "6511914382",
+  "curp": "ZUMB910903MVZXPROS", 
+  "nombre_del_asegurado": "BRENDA ZUNIGA MEZO", 
+  "clave_patronal": "311202252110", 
+  "nombre_del_patron": "LEVI STRAUS MEXICO SA DE CV"
+}

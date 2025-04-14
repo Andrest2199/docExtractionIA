@@ -1,0 +1,9 @@
+{
+  "codigo_postal": "93320",
+  "curp": "MAMM990130MVZRGY03",
+  "nombres": "MAYRA ALEJANDRA",
+  "primer_apellido": "MARQUEZ",
+  "segundo_apellido": "MAGAÑA",
+  "rfc": "MAMM990130BX1",
+  "estatus_en_el_padron": "ACTIVO"
+}

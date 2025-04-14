@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "MI909883",
+  "tipo_incapacidad": "subsecuente", 
+  "ramo_de_seguro": "enfermedad general", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "siete", 
+  "fecha_a_partir": "13/11/2023", 
+  "fecha_expedido": "13/11/2023", 
+  "numero_de_seguridad_social": "9211922444", 
+  "curp": null, 
+  "nombre_del_asegurado": "MACIAS LARA JORGE ARMANDO", 
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI STRAUSS DE MEXICO SA DE CV"
+}

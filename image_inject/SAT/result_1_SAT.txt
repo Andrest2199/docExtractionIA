@@ -1,0 +1,9 @@
+{
+  "codigo_postal": "09230",
+  "curp": "BABC960627MDFTLR08",
+  "nombres": "CAROLINA ELIZABETH",
+  "primer_apellido": "BAUTISTA",
+  "segundo_apellido": "BOLAOS",
+  "rfc": "BABC960627AN9",
+  "estatus_en_el_padron": "ACTIVO"
+}

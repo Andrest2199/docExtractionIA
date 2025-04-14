@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "SO604578",
+  "tipo_incapacidad": "subsecuente", 
+  "ramo_de_seguro": "riesgo de trabajo", 
+  "probable_riesgo_trabajo": "no",
+  "dias_autorizados": "veintiocho",
+  "fecha_a_partir": "09/11/2023", 
+  "fecha_expedido": "08/11/2023", 
+  "numero_de_seguridad_social": "0402864757", 
+  "curp": "BIDL860616HJCRZS01", 
+  "nombre_del_asegurado": "LUIS EDUARDO BRIANO DIAZ DE LEON", 
+  "clave_patronal": "2330030", 
+  "nombre_del_patron": "SAINT-GOBAIN PLAKA S.A. DE C.V."
+}

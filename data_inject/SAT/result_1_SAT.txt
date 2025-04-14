@@ -1,0 +1,9 @@
+{
+  "codigo_postla": "07080",
+  "curp": "AANE840409HDFLXN06",
+  "nombres": "ENRIQUE",
+  "primer_apellido": "ALVA",
+  "segundo_apellido": "NUNEZ",
+  "rfc": "AANE840409ES6",
+  "estatus_en_el_padron": "ACTIVO"
+}

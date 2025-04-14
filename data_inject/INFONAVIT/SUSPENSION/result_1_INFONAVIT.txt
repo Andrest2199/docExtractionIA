@@ -1,0 +1,18 @@
+{
+  "titulo": "AVISO DE SUSPENSION DE DESCUENTOS",
+  "motivo": "SUSPENSION",
+  "folio": "S1114023859630",
+  "fecha_notificacion": "29/09/2023",
+  "fecha_emision": null,
+  "fecha_tramite": null,
+  "fecha_recepcion": "05/10/2023",
+  "numero_de_credito": "6422018391",
+  "descuento": null,
+  "rfc": "AACS960206LQ3",
+  "numero_de_seguridad_social": "54149652379",
+  "rfc_patron": "LSM660818M98",
+  "numero_de_registro_patronal": "Z2969597108",
+  "razon_social": "LEVI STRAUSS DE MEXICO SA DE CV",
+  "sello_de_la_empresa": "true",
+  "leyenda_aplicacion_descuento": "a partir de la fecha en que se reciba este aviso, deberá suspender los descuentos que por concepto de amortización se vienen efectuando al trabajador"
+}

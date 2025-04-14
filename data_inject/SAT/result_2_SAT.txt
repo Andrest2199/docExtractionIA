@@ -1,0 +1,9 @@
+{
+  "codigo_postal": "27280",
+  "curp": "CXJA031113HCLNMLA1",
+  "nombres": "ALEKC KEVIN",
+  "primer_apellido": "CONTRERAS",
+  "segundo_apellido": "JIMENEZ",
+  "rfc": "COJX031113MB8",
+  "estatus_en_el_padron": "ACTIVO"
+}

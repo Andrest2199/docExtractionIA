@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "MI909834",
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "riesgo de trabajo", 
+  "probable_riesgo_trabajo": "si", 
+  "dias_autorizados": "cinco",
+  "fecha_a_partir": "16/11/2023", 
+  "fecha_expedido": "16/11/2023", 
+  "numero_de_seguridad_social": "92068701751", 
+  "curp": null,
+  "nombre_del_asegurado": "CALOS ODILIO GUDIC TAPIA", 
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI STRAUSS"
+}

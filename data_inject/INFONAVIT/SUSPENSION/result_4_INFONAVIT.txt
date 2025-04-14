@@ -1,0 +1,18 @@
+{
+  "titulo": "AVISO DE SUSPENSIÓN DE DESCUENTOS",
+  "motivo": "SUSPENSION",
+  "folio": "S1019025780744",
+  "fecha_notificacion": "03/02/2025",
+  "fecha_emision": "13/02/25",
+  "fecha_tramite": null,
+  "fecha_recepcion": "15/01/2024",
+  "numero_de_credito": "1905403238",
+  "descuento": null,
+  "rfc": "COOS80821PD6",
+  "numero_de_seguridad_social": "03967991138",
+  "rfc_patron": "CME9809141L6",
+  "numero_de_registro_patronal": "D5516942103",
+  "razon_social": "CAMCAR DE MEXICO SA DE CV",
+  "sello_de_la_empresa": "false",
+  "leyenda_aplicacion_descuento": "a partir de la fecha citada del presento aviso"
+}

@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "MI832495",
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "riesgo de trabajo", 
+  "probable_riesgo_trabajo": "si", 
+  "dias_autorizados": "uno",
+  "fecha_a_partir": "21/05/2023", 
+  "fecha_expedido": "21/05/2023", 
+  "numero_de_seguridad_social": "03184751237", 
+  "curp": null, 
+  "nombre_del_asegurado": "FIBELA SANCHEZ MARIBEL", 
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI STRAUSS"
+}

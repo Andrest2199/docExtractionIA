@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "UP726741",
+  "tipo_incapacidad": "subsecuente", 
+  "ramo_de_seguro": "riesgo de trabajo", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "veintiocho",
+  "fecha_a_partir": "23/10/2023", 
+  "fecha_expedido": "23/10/2023", 
+  "numero_de_seguridad_social": "2107892265", 
+  "curp": "DARC890703HBCGMR08", 
+  "nombre_del_asegurado": "CARLOS ALFREDO DAGNINO ROMO", 
+  "clave_patronal": "020532062151", 
+  "nombre_del_patron": "LEVI STRAUSS DE MEXICO SA DE CV"
+}

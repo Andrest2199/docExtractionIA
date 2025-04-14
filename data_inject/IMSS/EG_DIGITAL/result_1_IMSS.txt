@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "VD395576", 
+  "tipo_incapacidad": "subsecuente", 
+  "ramo_de_seguro": "enfermedad general", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "dos", 
+  "fecha_a_partir": "25/10/2023", 
+  "fecha_expedido": "25/10/2023", 
+  "numero_de_seguridad_social": "6415966190", 
+  "curp": "ROGA960926MMCMML05", 
+  "nombre_del_asegurado": "ALONDRA ROMERO GAMEZ", 
+  "clave_patronal": "153901252110", 
+  "nombre_del_patron": "LEVIS STRAUS SA DE CV"
+}

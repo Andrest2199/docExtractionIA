@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "MM542379", 
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "maternidad", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "ochenta y cuatro",
+  "fecha_a_partir": "11/05/2023", 
+  "fecha_expedido": "11/05/2023", 
+  "numero_de_seguridad_social": "90018503702",
+  "curp": null, 
+  "nombre_del_asegurado": null, 
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI"
+}

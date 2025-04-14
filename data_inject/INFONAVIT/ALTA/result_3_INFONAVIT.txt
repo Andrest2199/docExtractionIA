@@ -1,0 +1,18 @@
+{
+  "titulo": "AVISO PARA RETENCION DE DESCUENTOS",
+  "motivo": "ALTA",
+  "folio": "212209338460",
+  "fecha_notificacion": "15/09/2009",
+  "fecha_emision": null,
+  "fecha_tramite": null,
+  "fecha_recepcion": "17/09/2009",
+  "numero_de_credito": "2209106833",
+  "descuento": { "factor": "25.931" },
+  "rfc": "HEBA8105167RA",
+  "numero_de_seguridad_social": "14988139698",
+  "rfc_patron": "RVC861201Q99",
+  "numero_de_registro_patronal": "E2382971109",
+  "razon_social": "REFRESCOS VICTORIA DEL CENTRO S.A. DE C",
+  "sello_de_la_empresa": "true",
+  "leyenda_aplicacion_descuento": "a partir del día siguiente a aquel en que se le haya notificado el presente aviso"
+}

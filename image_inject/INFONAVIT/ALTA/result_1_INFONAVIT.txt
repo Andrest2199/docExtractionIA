@@ -1,0 +1,18 @@
+{
+  "titulo": "Acuse de notificación de inicio de trámite de crédito a través del Portal Empresarial del Infonavit",
+  "motivo": "ALTA",
+  "folio": "S1114023859630",
+  "fecha_notificacion": "02/12/2023",
+  "fecha_emision": null,
+  "fecha_tramite": "01/11/23",
+  "fecha_recepcion": "02/12/2023",
+  "numero_de_credito": "*******601",
+  "descuento": { "cantidad": "$2,511.29" },
+  "rfc": null,
+  "numero_de_seguridad_social": "68948003535",
+  "rfc_patron": "LSM660818M98",
+  "numero_de_registro_patronal": "B1014849108",
+  "razon_social": "LEVI STRAUSS DE MEX SA CV",
+  "sello_de_la_empresa": "true",
+  "leyenda_aplicacion_descuento": null
+}

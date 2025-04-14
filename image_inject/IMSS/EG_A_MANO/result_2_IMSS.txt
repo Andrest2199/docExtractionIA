@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "MI909871",
+  "tipo_incapacidad": "subsecuente",
+  "ramo_de_seguro": "enfermedad general",
+  "probable_riesgo_trabajo": "no",
+  "dias_autorizados": "trece",
+  "fecha_a_partir": "02/11/2023",
+  "fecha_expedido": "08/11/2023",
+  "numero_de_seguridad_social": "92058531325", 
+  "curp": null, 
+  "nombre_del_asegurado": null,
+  "clave_patronal": null, 
+  "nombre_del_patron": "LEVI STRAUSS DE MEXICO SA DE CV"
+}

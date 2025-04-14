@@ -1,0 +1,9 @@
+{
+  "codigo_postal": "08400",
+  "curp": "HEPE970906MDFRTL00",
+  "nombres": "ELIZABETH",
+  "primer_apellido": "HERNANDEZ",
+  "segundo_apellido": "PATIÑO",
+  "rfc": "HEPE970906Q27",
+  "estatus_en_el_padron": "ACTIVO"
+}

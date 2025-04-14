@@ -1,0 +1,14 @@
+{ 
+  "serie_y_folio": "UH402593", 
+  "tipo_incapacidad": "inicial", 
+  "ramo_de_seguro": "enfermedad general", 
+  "probable_riesgo_trabajo": "no", 
+  "dias_autorizados": "uno", 
+  "fecha_a_partir": "16/12/2023", 
+  "fecha_expedido": "16/12/2023", 
+  "numero_de_seguridad_social": "0417944785", 
+  "curp": "E1HV940636H3CNRCO", 
+  "nombre_del_asegurado": "VICTOR ALBERTO ENRIQUEZ HERRERA", 
+  "clave_patronal": "140115252115", 
+  "nombre_del_patron": "LEVI STRAUSS DE MEXICO SA DE CV"
+}

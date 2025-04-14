@@ -1,0 +1,18 @@
+{
+  "titulo": "AVISO DE SUSPENSIÓN DE DESCUENTOS",
+  "motivo": "SUSPENSION",
+  "folio": "S1111024165226",
+  "fecha_notificacion": "15/12/2024",
+  "fecha_emision": "18/12/24",
+  "fecha_tramite": null,
+  "fecha_recepcion": "15/01/2025",
+  "numero_de_credito": "1108180266",
+  "descuento": null,
+  "rfc": "HESR720110AV5",
+  "numero_de_seguridad_social": "63907279739",
+  "rfc_patron": "SGM100520HZ0",
+  "numero_de_registro_patronal": "B4750696105",
+  "razon_social": "SRG GLOBAL MEXICO S DE RL DE CV",
+  "sello_de_la_empresa": "false",
+  "leyenda_aplicacion_descuento": "a partir de la fecha citada del presento aviso"
+}

@@ -1,0 +1,18 @@
+{
+  "titulo": "AVISO DE SUSPENSIÓN POR PROXIMA LIQUIDACION DE CREDITO",
+  "motivo": "SUSPENSION",
+  "folio": "S1001023582000",
+  "fecha_notificacion": "05/12/2023",
+  "fecha_emision": null,
+  "fecha_tramite": null,
+  "fecha_recepcion": "15/01/2024",
+  "numero_de_credito": "0116041373",
+  "descuento": null,
+  "rfc": "SIHJ710316FV2",
+  "numero_de_seguridad_social": "14947134616",
+  "rfc_patron": "LSG1103226V6",
+  "numero_de_registro_patronal": "A0172158105",
+  "razon_social": "LEVI STRAUSS GLOBAL TRADING COMPANY II",
+  "sello_de_la_empresa": "true",
+  "leyenda_aplicacion_descuento": "a partir de la fecha en que se reciba este aviso, deberá suspender los descuentos, derivado a que el crédito está en la etapa final de cobro, motivo por el cual ya no deberá de retenerle la amortización ya que con el 5% de la aportación patronal durante un plazo establecido de 12 meses se terminará de pagar"
+}
